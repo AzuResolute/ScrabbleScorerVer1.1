@@ -1,0 +1,11 @@
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\bin\Debug\ScrabbleScorerV1.1.0.exe.config
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\bin\Debug\ScrabbleScorerV1.1.0.exe
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\bin\Debug\ScrabbleScorerV1.1.0.pdb
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\bin\Debug\EPPlus.dll
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\bin\Debug\EPPlus.xml
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\obj\Debug\ScrabbleScorerV1.1.0.csprojAssemblyReference.cache
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\obj\Debug\ScrabbleScorerV1.1.0.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\obj\Debug\ScrabbleScorerV1.1.0.csproj.CopyComplete
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\obj\Debug\ScrabbleScorerV1.1.0.exe
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\obj\Debug\ScrabbleScorerV1.1.0.pdb
+C:\Users\roger\source\repos\ScrabbleScorerV1.1.0\ScrabbleScorerV1.1.0\bin\Debug\ScrabbleDatabase.xlsx

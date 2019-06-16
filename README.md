@@ -57,11 +57,11 @@ The resulting Excel file is seen below:
 
 ---
 
-![Alt text](/ScrabbleScorerV1.1.0/screenshots/ExcelSample2.png?raw=true "ExcelSample2")
+![Alt text](/ScrabbleScorerV1.1.0/screenshots/ExcelSample1.png?raw=true "ExcelSample1")
 
 ---
 
-ExcelSample1
+![Alt text](/ScrabbleScorerV1.1.0/screenshots/ExcelSample2.png?raw=true "ExcelSample2")
 
 
 

@@ -3,7 +3,7 @@
 ScrabbleScorer is a console application made using C# and a nuget package called OpenOfficeXml.
 This project logs scrabble scores for 2-6 players.
 
-Created in October 2018, one month after beginning my programming journey.
+Created in October 2018, one month after beginning my programming journey in Per Scholas.
 
 ## Features
 
